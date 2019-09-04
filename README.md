@@ -5,4 +5,5 @@ recognizing the features and brand of the car
 3. Activate the enviorment
 4. After activating enter idle
 5. Open proj2
-6. install Droidcam in mobile from playstore
+6. Install Droidcam in mobile from playstore
+7. https://drive.google.com/file/d/1OIS6zaiJRvfAccsNvjejcXHRolit1TQ5/view?usp=sharing link to the enviorment
