@@ -1,0 +1,21 @@
+item {
+  id: 1
+  name: 'BMW(mileage:16.13,bootspace:480L)'
+ 
+}
+
+item {
+  id: 2
+  name: 'NANO(mileage:33.0,bootspace:300L)'
+  
+}
+
+item {
+  id: 3
+  name: 'SCORPIO(mileage:16.36,bootspace:460L)'
+}
+
+item {
+  id: 4
+  name: 'MINI COOPER(mileage:17.12,bootspace:420L)'
+}
