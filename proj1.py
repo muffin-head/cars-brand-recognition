@@ -66,6 +66,7 @@ def cardetect():
     num_detections = detection_graph.get_tensor_by_name('num_detections:0')
     link=(e1.get())
     video = cv2.VideoCapture("http://"+link+":4747/video")
+    #video=cv2.VideoCapture("http://"+link+":8080/video")for using ipwebcam
     ret = video.set(3,1280)
     ret = video.set(4,720)
 
